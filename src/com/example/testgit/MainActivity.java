@@ -11,6 +11,9 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		System.out.println(">>>>>> Test");
+		System.out.println(">>>>>> Test");
+		System.out.println(">>>>>> Test");
+		System.out.println(">>>>>> Test");
 	}
 
 	@Override
